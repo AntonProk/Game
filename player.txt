@@ -1,0 +1,3 @@
+larry,70
+shemp,70
+moe,70
